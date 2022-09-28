@@ -1,0 +1,49 @@
+.playvideo{
+    display: flex;
+    justify-content: space-around;
+}
+.like{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.title_share{
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    color: gray;
+}
+.icon{
+    padding: 10px;
+}
+.playVideo_block{
+    display: flex;
+}
+.block{
+    display: flex;
+}
+.content_block{
+    margin-left: 50px;
+}
+.full_block{
+    background-color: #f9f9f9;
+}
+.video_block{
+    margin-left: 30px;
+}
+.clearBtn{
+    color: black;
+    background-color: #e3e3e3;
+    width: 200px;
+    height: 50px;
+    border: none;
+    font-size: 18px;
+    margin-left: 5px;
+    box-shadow: 5px 5px 5px;
+
+}
+.clearBtn:hover{
+    background-color: black;
+    color: white;
+    box-shadow: 5px 5px #e3e3e3;
+}

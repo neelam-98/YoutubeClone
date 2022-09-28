@@ -1,0 +1,24 @@
+.app_mainpage{
+    display: flex;
+    flex-direction: row;
+   
+}
+.content_block{
+    margin-left: 50px;
+}
+.full_block{
+    background-color: #f9f9f9;
+}
+.searchBlock{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.card{
+    width: 500px;
+    height: 300px;
+    margin-left: 10px;
+}
+.searchbar_sidebar{
+    display: flex;
+}
